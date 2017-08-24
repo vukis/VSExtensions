@@ -1,6 +1,6 @@
 # VSExtensions
 
-## Demangled build output
+## Demangled build output 
 
 ![Build output](https://github.com/vukis/VSExtensions/blob/master/BuildDemangledOutput/BuildOutput.jpg)
 
