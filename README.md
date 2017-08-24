@@ -13,6 +13,6 @@ Enabling demangled build output.
 
 ![Build output](https://github.com/vukis/VSExtensions/blob/master/BuildDemangledOutput/EnablingPlugin.jpg)
 
-After demangled build output enabled symbols are readable.
+After enabling demangled build output symbols are readable.
 
 ![Demangled build output](https://github.com/vukis/VSExtensions/blob/master/BuildDemangledOutput/DemangledBuildOutput.jpg)
