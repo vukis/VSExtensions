@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.xsd
+packages/Microsoft.VSSDK.BuildTools.15.0.26201/tools/vssdk/Newtonsoft.Json.dll
+*.dll
+*.xml
